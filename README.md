@@ -25,7 +25,7 @@ App interactiva para resolver el planograma OXXO con tres modelos:
    - `oxxo_1.csv` (histórico de planogramas)
    - `ejemplo_planograma.csv` (óptimo aprobado por OXXO)
 
-2. **Presiona "CORRER LOS 3 MODELOS"** — toma entre 5 y 60 segundos.
+2. **Presiona "CORRER LOS 3 MODELOS"** - toma entre 5 y 60 segundos.
 
 3. **Navega entre las tres pestañas:**
    - **PLANOGRAMA**: ve el refri renderizado para cada modelo, con switch entre Óptimo, PuLP, SA y GRASP. Hover en cada botella para ver detalles.
